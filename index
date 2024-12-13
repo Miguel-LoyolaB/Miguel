@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Teaching Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to My Teaching Website</h1>
+    <p>Here you'll find my teaching resources and contact information.</p>
+</body>
+</html>
