@@ -7,5 +7,12 @@
 <body>
     <h1>Welcome to My Teaching Website</h1>
     <p>Here you'll find my teaching resources and contact information.</p>
+
+    <!-- Add links to other pages here -->
+    <ul>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="teaching.html">Teaching</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
 </body>
 </html>
